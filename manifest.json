@@ -1,14 +1,1 @@
-{
-    "id": "mangadex-provider",
-    "name": "MangaDex",
-    "description": "Read manga from MangaDex - the largest manga community",
-    "version": "0.1.0",
-    "author": "brutalrehman-exe",
-    "type": "manga-provider",
-    "language": "javascript",
-    "lang": "en",
-    "manifestURI": "https://raw.githubusercontent.com/brutalrehman-exe/Mangasoa/refs/heads/main/manifest.json",
-    "payloadURI": "https://raw.githubusercontent.com/brutalrehman-exe/Mangasoa/refs/heads/main/provider.js",
-    "icon": "https://mangadex.org/favicon.ico",
-    "website": "https://mangadex.org"
-}
+hi
