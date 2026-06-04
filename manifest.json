@@ -1,0 +1,13 @@
+{
+    "id": "mangadex-provider",
+    "name": "MangaDex",
+    "description": "Read manga from MangaDex - the largest manga community",
+    "version": "0.1.0",
+    "author": "brutalrehman-exe",
+    "type": "manga-provider",
+    "language": "javascript",
+    "lang": "en",
+    "payloadURI": "provider.js",
+    "icon": "https://mangadex.org/favicon.ico",
+    "website": "https://mangadex.org"
+}
