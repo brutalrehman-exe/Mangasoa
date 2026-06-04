@@ -7,7 +7,7 @@
     "type": "manga-provider",
     "language": "javascript",
     "lang": "en",
-    "payloadURI": "provider.js",
+    "payloadURI": "https://raw.githubusercontent.com/brutalrehman-exe/Mangasoa/refs/heads/main/provider.js",
     "icon": "https://mangadex.org/favicon.ico",
     "website": "https://mangadex.org"
 }
